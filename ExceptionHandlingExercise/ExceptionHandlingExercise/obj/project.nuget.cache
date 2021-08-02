@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "v33I2FymTYsfqpo+qpg3IjpjJG51BGIcHNRdzrjRKzdBfS7tfYKMll1Kb3uOR5tIl5CGsZJx7tBIpu45paKEXQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\amcel\\repos\\ExceptionHandlingExercise\\ExceptionHandlingExercise\\ExceptionHandlingExercise.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\amcel\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.0.3\\microsoft.netcore.app.host.win-x64.3.0.3.nupkg.sha512",
+    "C:\\Users\\amcel\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.0.1\\microsoft.aspnetcore.app.ref.3.0.1.nupkg.sha512",
+    "C:\\Users\\amcel\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.0.0\\microsoft.windowsdesktop.app.ref.3.0.0.nupkg.sha512",
+    "C:\\Users\\amcel\\.nuget\\packages\\microsoft.netcore.app.ref\\3.0.0\\microsoft.netcore.app.ref.3.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
